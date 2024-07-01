@@ -1,2 +1,2 @@
-## used to configure mirror sources for pacman on archlinux
-## use Tsinghua mirror
+## To configure mirror sources for pacman on Arch Linux, use the Tsinghua mirror.
+### Server from Tsinghua University
